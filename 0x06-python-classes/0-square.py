@@ -2,6 +2,6 @@
 '''an empty class that defines a square'''
 
 
-class mySquare:
+class Square:
     '''A simple class that defines a square'''
     pass
