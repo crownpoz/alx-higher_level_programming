@@ -1,4 +1,4 @@
-#!usr/bin/bash
+#!/usr/bin/python3
 '''an empty class that defines a square'''
 
 
