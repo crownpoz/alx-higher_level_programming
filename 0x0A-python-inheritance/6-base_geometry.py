@@ -1,5 +1,5 @@
 #!/usr/bin/python3
-'''Writes a base geometry function'''
+'''represents a base geometry function'''
 
 
 class BaseGeometry:
